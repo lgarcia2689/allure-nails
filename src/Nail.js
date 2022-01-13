@@ -33,7 +33,7 @@ function Nail() {
       </body>
       <body className="App-body3">
         <div>
-          <img src='https://i1.wp.com/luxenailboutique.com/wp-content/uploads/2018/10/tunWlD0c.png?resize=400%2C400'/>
+          <img src='https://i1.wp.com/luxenailboutique.com/wp-content/uploads/2018/10/tunWlD0c.png?resize=400%2C400' alt='nails'/>
         </div>
         <div className='servicesList'>
           <h1>We offer all the beauty services you’re looking for.</h1>
@@ -55,7 +55,7 @@ function Nail() {
           </ul>
         </div>
         <div>
-        <img src='https://i2.wp.com/luxenailboutique.com/wp-content/uploads/2018/10/24254421_1890307821296993_5594188357509840896_n.jpg?resize=400%2C400'/>
+        <img src='https://i2.wp.com/luxenailboutique.com/wp-content/uploads/2018/10/24254421_1890307821296993_5594188357509840896_n.jpg?resize=400%2C400' alt='dog on nail chair'/>
         </div>
       </body>
     </div>
